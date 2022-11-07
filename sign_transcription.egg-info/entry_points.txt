@@ -1,0 +1,4 @@
+[console_scripts]
+pose_to_segments = pose_to_segments.bin:main
+pose_to_video = pose_to_video.bin:main
+video_to_pose = video_to_pose.bin:main

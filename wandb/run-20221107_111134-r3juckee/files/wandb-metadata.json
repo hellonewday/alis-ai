@@ -1,0 +1,41 @@
+{
+    "os": "Windows-10-10.0.19043-SP0",
+    "python": "3.9.5",
+    "heartbeatAt": "2022-11-07T04:11:36.707471",
+    "startedAt": "2022-11-07T04:11:34.437710",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "Untitled.ipynb",
+    "root": "D:/hung-workspace/learning-ml/transcription",
+    "git": {
+        "remote": "https://github.com/sign-language-processing/transcription.git",
+        "commit": "2254cee3c409bb96726eccaec55ba195cb987970"
+    },
+    "email": "hungnq10@vnpt.vn",
+    "host": "SI-GP3-0504-1",
+    "username": "Nguyen Thanh Loc",
+    "executable": "c:\\users\\nguyen thanh loc\\appdata\\local\\programs\\python\\python39\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 3401.0,
+        "min": 0.0,
+        "max": 3401.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3401.0,
+            "min": 0.0,
+            "max": 3401.0
+        }
+    ],
+    "disk": {
+        "total": 465.84569931030273,
+        "used": 194.01078414916992
+    },
+    "memory": {
+        "total": 7.8861846923828125
+    }
+}
